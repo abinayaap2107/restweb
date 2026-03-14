@@ -63,7 +63,7 @@ first.html
         </div>
     </body>
 </html>
-``
+```
 home.css
 ```
 .bg
@@ -522,11 +522,9 @@ nav a:hover
 ```
 
 ## OUTPUT:
-c:\Users\acer\Pictures\Screenshots\Screenshot (66).png 
-c:\Users\acer\Pictures\Screenshots\Screenshot (65).png 
-c:\Users\acer\Pictures\Screenshots\Screenshot (64).png 
-c:\Users\acer\Pictures\Screenshots\Screenshot (63).png
-
-
+![alt text](<abinaya/Screenshot (63).png>)
+![alt text](<abinaya/Screenshot (64).png>)
+![alt text](<abinaya/Screenshot (65).png>)
+![alt text](<abinaya/Screenshot (66).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
