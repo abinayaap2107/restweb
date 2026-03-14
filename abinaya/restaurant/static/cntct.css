@@ -1,0 +1,83 @@
+.bg
+{
+    background-image: url(f1.webp);
+    width:100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav
+{
+    
+    background-color: pink;
+    left:0%;
+    width:100%;
+    position: fixed;
+    top: 0%;
+    padding:10px 90px;
+}
+nav a
+{
+    color:lavender;
+    margin: 25px;
+}
+nav a:hover
+{
+    color: aquamarine;
+}
+.cntct
+{
+    top: 100px;
+    left:400px;
+    font-weight: bold;
+    position: absolute;
+    color:aquamarine;
+
+}
+.add
+{
+    position: absolute;
+    left: 400px;
+    top: 130px;
+    color: azure;
+}
+.delivery
+{
+    top: 300px;
+    left: 300px;
+    color: beige;
+    position: absolute;
+
+}
+.app
+{
+    position: absolute;
+    left: 310px;
+    top: 320px;
+    color:beige;
+}
+.details
+{
+    position: absolute;
+    color: blanchedalmond;
+    top:400px;
+    left: 300px;
+}
+.phn
+{
+    position: absolute;
+    color: burlywood;
+    top: 430px;
+    left: 300px;
+}
+.footer
+{
+    bottom: 0%;
+    position: fixed;
+    background: palevioletred;
+    color:black;
+    left:0%;
+    text-align: center;
+    padding: 12px;
+    width:100%;
+}  
